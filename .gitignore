@@ -1,0 +1,7 @@
+*.zip
+*.tar
+*.tgz
+*.pyc
+sample/
+train/
+
